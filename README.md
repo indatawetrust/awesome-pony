@@ -1,15 +1,8 @@
 # Awesome Pony [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+A curated list of awesome Rust code and resources, inspired by the other awesome lists.
 
-A curated list of awesome Pony frameworks, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
-
-
-### Contributing
-
-#### *If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!*
-
-
-### Contents
+The goal is to have only projects that are mostly stable and useful to users.
 
 - [Awesome Pony](#awesome-pony)
     - [Resource Embedding](#resource_embedding)
